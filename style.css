@@ -1,0 +1,17 @@
+header{
+    color:white;
+    background-image:linear-gradient(to right,purple,rgba(136, 49, 49, 0.9),brown)
+
+    }
+}
+.banner{
+    background-size:cover;
+    width:100%;
+}
+p{
+    text-align:justify;
+}
+.mim{
+    color:papayawhip;
+    background-image:linear-gradient(to right,brown,purple,rgba(64, 64, 224, 0.9),brown,goldenrod)
+}
